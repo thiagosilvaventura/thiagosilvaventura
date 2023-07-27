@@ -7,4 +7,3 @@ I'm starting with personal projects in maths with <strong> Phyton</strong> and <
 Yours sincerely!
 
 -->
-[Snake animation](https://github.com/thiagosilvaventura/thiagosilvaventura/blob/output/github-contribution-grid-snake.svg)
