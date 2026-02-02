@@ -28,7 +28,8 @@ Driven by mathematics and powered by code, I specialize in bridging the gap betw
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arqthiagoventura)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-**Languages:** PT-BR (Native) | EN | ES | FR
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sventurathiago/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sventurathiago@gmail.com)
+
+**Languages:** 🇧🇷 **PT-BR** (Native) | 🇺🇸 **EN** | 🇪🇸 **ES** | 🇫🇷 **FR**
