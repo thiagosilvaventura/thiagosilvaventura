@@ -1,25 +1,34 @@
-<<!DOCTYPE html>
-<html>
-<head>
-    <title>My Profile</title>
-</head>
-<body>
-    <h1 style="font-size: 36px; font-weight: bold">Rise, my friend!</h1>
-    <p>Hello, my name is Thiago, I live in Brazil, São Paulo Capital. <span>&#x1F3E2;</span></p>
-    <p>I have a degree in data science and software development, having pursued both degrees simultaneously between 2021 and 2023. I also have a degree in Architecture and Urbanism in 2019 and completed a postgraduate course in engineering in 2020.</p>
+# Thiago Ventura | AI Engineer & Data Scientist 👋
 
-<h2 style="font-size: 24px; font-weight: bold">Passions <span>&#x2764;</span></h2>
-    <p>I have always been fascinated by mathematics, physics, and cosmology. This is how I have learned programming: developing scientific ideas in collaboration with technological tools. My hobbies include creating and solving calculus puzzles; I always say that this is my favorite game <span>&#x1F60E;</span>!</p>
+Driven by mathematics and powered by code, I specialize in bridging the gap between complex data structures and scalable AI solutions. Currently finishing my **Postgraduate degree in AI Engineering**, I leverage a unique background in **Architecture and Data Science** to build robust, well-structured data environments.
 
-<h2 style="font-size: 24px; font-weight: bold">Experiences <span>&#127908;</span></h2>
-    <p>I worked for several years in customer interaction and technical support, where I learned a lot about agile methodologies and quality management. I believe that this type of knowledge can contribute significantly to the field of technology. I also worked in architecture, specifically in project coordination and technical drawing, always something related to technology!</p>
+### 🎯 Core Focus
+- **Data Engineering:** Expert-level manipulation of dataframes and data wrangling.
+- **AI & Algorithms:** Development of predictive models and optimization of computational logic.
+- **Mathematical Modeling:** Applying calculus and physics-based logic to solve real-world tech challenges.
 
- <h2 style="font-size: 24px; font-weight: bold">Skills <span>&#128218;</span></h2>
-    <p>My favorite programming language is Python, and I have developed projects using this language. I also appreciate R and tools like HTML, CSS, and Javascript. I always seek to stay updated on technology topics, and I am learning more about the C language group, including C, C++, and C#, as well as Swift and PHP.</p>
+---
 
- <h2 style="font-size: 24px; font-weight: bold">Portfolio <span>&#x1F4BB;</span></h2>
-    <p>This GitHub profile is my small laboratory, where you can find various experiments with different languages, from mathematical projects to algorithms and agile methodologies focused on process quality.</p>
+### 🛠 Technical Toolbox
 
- <p><span>&#x1F1E7;&#x1F1F7;</span> <span>&#x1F1EC;&#x1F1E7;</span> <span>&#x1F1EA;&#x1F1F8;</span> <span>&#x1F1EB;&#x1F1F7;</span></p>
-</body>
-</html>
+* **Languages:** Python (Advanced), SQL, R, JavaScript.
+* **Data Science:** Pandas, Polars, NumPy, Scikit-learn, Matplotlib.
+* **AI/ML:** Neural Networks, LLMs, Feature Engineering, Model Deployment.
+* **Tools & Methods:** Git, Agile Methodologies, Quality Management.
+
+---
+
+### 🔬 Current Research & Projects
+- 🤖 Developing AI pipelines for automated data structuring.
+- 📈 Advanced calculus puzzles and algorithmic optimization.
+- 🏗️ Integrating architectural logic into data visualization and system design.
+
+> "I view coding as the ultimate game of logic. My favorite challenge? Optimizing complex algorithms to find the most elegant solution."
+
+---
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arqthiagoventura)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+**Languages:** PT-BR (Native) | EN | ES | FR
