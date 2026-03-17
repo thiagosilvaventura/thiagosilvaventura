@@ -1,28 +1,24 @@
-# Thiago Ventura | AI Engineer & Data Scientist 👋
+Thiago Ventura | Data Analytics & BI 📊
+I am a professional with a multidisciplinary background in Architecture and Technology, focused on the intersection of process organization and data architecture. Currently, I am leveraging my expertise to build Business Intelligence solutions, data analysis, and operational optimization.
 
-Driven by mathematics and powered by code, I specialize in bridging the gap between complex data structures and scalable AI solutions. Currently finishing my **Postgraduate degree in AI Engineering**, I leverage a unique background in **Architecture and Data Science** to build robust, well-structured data environments.
+🧩 Where my background converges
+I believe that designing a building and designing a dashboard require the same foundation: the architecture of ideas. My journey combines the structural vision of Architecture (Post-grad in Construction Management) with the technical rigor of Technology (Degrees in Data Science and Software Development), all converging into my current specialization in AI Engineering.
 
-### 🎯 Core Focus
-- **Data Engineering:** Expert-level manipulation of dataframes and data wrangling.
-- **AI & Algorithms:** Development of predictive models and optimization of computational logic.
-- **Mathematical Modeling:** Applying calculus and physics-based logic to solve real-world tech challenges.
+🛠️ Technical Toolbox
+Analytics & BI: Dashboard development, Business Intelligence, and exploratory data analysis.
 
----
+Data Stack: Python (Pandas, Polars, NumPy), SQL, and R.
 
-### 🛠 Technical Toolbox
+Excel/Sheets: Advanced formulas for automation and rapid data modeling.
 
-* **Languages:** Python (Advanced), SQL, R, JavaScript.
-* **Data Science:** Pandas, Polars, NumPy, Scikit-learn, Matplotlib.
-* **AI/ML:** Neural Networks, LLMs, Feature Engineering, Model Deployment.
-* **Tools & Methods:** Git, Agile Methodologies, Quality Management.
+Methodologies: Implementing Agile methods within operational environments.
 
----
+🔬 Current Focus
+📈 Improving data visualization techniques and business metrics.
 
-### 🔬 Current Research & Projects
-- 🤖 Developing AI pipelines for automated data structuring.
-- 📈 Advanced calculus puzzles and algorithmic optimization.
-- 🏗️ Integrating architectural logic into data visualization and system design.
+⚙️ Optimizing operational workflows through Python and SQL automation.
 
+🤖 Exploring AI Engineering to structure and refine data processes.
 > "I view coding as the ultimate game of logic. My favorite challenge? Optimizing complex algorithms to find the most elegant solution."
 
 ---
