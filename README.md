@@ -59,7 +59,12 @@ I am a multidisciplinary professional bridging the gap between **Architectural s
 <br>
 
 "I view coding as the ultimate game of logic. My favorite challenge? Optimizing complex algorithms to find the most elegant solution."
-
+### 🐍 My Contributions Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiagosilvaventura/thiagosilvaventura/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiagosilvaventura/thiagosilvaventura/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thiagosilvaventura/thiagosilvaventura/output/github-contribution-grid-snake.svg">
+</picture>
 <br><br>
 
 <a href="https://www.linkedin.com/in/thiagosilvaventura">
