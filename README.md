@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://github.com/thiagosilvaventura.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #3498db;" alt="Thiago Ventura">
+<img src="https://github.com/thiagosilvaventura.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #3498db; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="Thiago Ventura">
 
 <br>
 
 <h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=3498db&center=true&vCenter=true&width=500&lines=Thiago+Ventura;Data+Analytics+%26+BI+%F0%9F%93%8A;AI+Engineer;From+Architecture+to+Data" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=3498db&center=true&vCenter=true&width=450&lines=Thiago+Ventura;Data+%26+AI+Architect" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -24,41 +24,29 @@
 
 I am a multidisciplinary professional bridging the gap between **Architectural structural vision** (Post-grad in Construction Management) and **Technological rigor**. Currently, I focus on transforming complex processes into optimized Business Intelligence and Data Architecture solutions.
 
-<br>
-
-| What's inside | |
-| :--- | :--- |
-| **Python** | Data cleaning and wrangling |
-| **SQL** | Database administration and architecture |
-| **Data Analytics** | Power BI, Tableau, and Looker Studio |
-| **JavaScript** | Web automation and scripts |
-| **Excel / G-Sheets** | Advanced calculators and modeling |
-
-<br>
-
 </div>
 
 ---
 
-### 🛠️ Technical Toolbox
+### 🛠️ Tech Stack & Specialized Inventory
 
-<table align="center">
-  <tr>
-    <td align="center" width="300">
-      **Languages**<br>
-      PT-BR (Native) • EN • ES • FR
-    </td>
-    <td align="center" width="300">
-      **Methodologies**<br>
-      `Agile` • `Scrum` • `Data Modeling`
-    </td>
-  </tr>
-</table>
+| Category | Technologies & Tools | Foci |
+| :--- | :--- | :--- |
+| **AI Engineering** | `Python`, `Neural Networks`, `DevOps`, `AI Libraries` | Model deployment, Agentic workflows |
+| **Database Architecture** | `SQL Server`, `PostgreSQL`, `NoSQL`, `SQL` | Data modeling, Administration |
+| **Data Analytics** | `Power BI`, `Looker Studio`, `Tableau`, `Excel+GSheets` | Visual storytelling, Business metrics |
+| **Quality & Knowledge** | `BPO Program Management`, `KB Architecture`, `Process Mapping` | Operational efficiency, Documentation |
+| **Risk & Fraud Control** | `iGaming Fraud Detection`, `Pattern Mapping`, `Data Mining`, `Python` | Anomaly detection, Complex auditing |
+| **Automation** | `Python`, `AppScript` (Google Workspace), `SQL` | Workflow optimization, Scripts |
+
+<div align="center">
+
+---
 
 ### 🔬 Current Focus
-* 📈 **Data Viz & Business Metrics:** Refining visual storytelling through data.
-* ⚙️ **Automation:** Optimizing operational workflows using Python and SQL.
-* 🤖 **AI Engineering:** Structuring intelligent processes and data agents.
+* 📈 **Data Viz:** Refining visual narratives for decision-making.
+* ⚙️ **Automation:** Structuring operational workflows with Python and SQL.
+* 🤖 **Agentic AI:** Exploring autonomous data agents for complex problem-solving.
 
 ---
 
@@ -68,43 +56,14 @@ I am a multidisciplinary professional bridging the gap between **Architectural s
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosilvaventura&layout=compact&langs_count=7&theme=nord" />
 </div>
 
-<div align="center">
-  <br>
-  "I view coding as the ultimate game of logic. My favorite challenge? Optimizing complex algorithms to find the most elegant solution."
-  <br><br>
-  <a href="https://www.linkedin.com/in/thiagosilvaventura">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
-    <td align="center">
-      **Libraries**<br>
-      `Pandas` • `Polars` • `NumPy`
-    </td>
-    <td align="center">
-      **Methodologies**<br>
-      `Agile` • `Scrum` • `Data Modeling`
-    </td>
-  </tr>
-</table>
+<br>
 
-### 🔬 Current Focus
-* 📈 **Data Viz & Business Metrics:** Refinando a narrativa visual dos dados.
-* ⚙️ **Automation:** Otimizando workflows operacionais com Python e SQL.
-* 🤖 **AI Engineering:** Estruturando processos inteligentes e agentes de dados.
+"I view coding as the ultimate game of logic. My favorite challenge? Optimizing complex algorithms to find the most elegant solution."
 
----
+<br><br>
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=nord" />
-</div>
+<a href="https://www.linkedin.com/in/thiagosilvaventura">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-<div align="center">
-  <br>
-  "I view coding as the ultimate game of logic. My favorite challenge? Optimizing complex algorithms to find the most elegant solution."
-  <br><br>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
 </div>
