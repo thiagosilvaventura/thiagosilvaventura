@@ -7,21 +7,26 @@
 </h1>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Data_Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/AI_Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=".py">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt=".sql">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt=".js">
+  <img src="https://img.shields.io/badge/DAX_%7C_M-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt=".dax .m">
+  <img src="https://img.shields.io/badge/Web_Scraping-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Scraping">
+  <img src="https://img.shields.io/badge/Web_Automation-009688?style=for-the-badge&logo=selenium&logoColor=white" alt="Automation">
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt=".vba">
+  <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt=".gs">
 </p>
 
 </div>
 
 ---
 
-## 🧩 The Architecture of Ideas
+## 🧠 Architecting Data Intelligence
 
-> *"Designing a building and designing a dashboard require the same foundation: the architecture of ideas."*
 
-Multidisciplinary professional connecting **Architecture, Data Engineering and AI Systems**, transforming complexity into structured intelligence and analytical solutions.
+**Data Analytics Specialist** bridging Quality Control, Forensic Analysis, and Web Automation. Evolving from an architectural background, I now focus on transforming raw complexity into structured intelligence through data extraction (scraping), AI models, and automated analytical workflows to drive operational excellence.
+
+---
 
 ---
 
@@ -29,21 +34,21 @@ Multidisciplinary professional connecting **Architecture, Data Engineering and A
 
 | Category | Technologies | Focus |
 |----------|-------------|-------|
-| AI Engineering | Python, Neural Networks, DevOps | Agentic workflows |
-| Data Architecture | SQL Server, PostgreSQL, NoSQL | Modeling & governance |
-| Analytics | Power BI, Tableau, Looker Studio | Data storytelling |
-| Quality & Knowledge | BPM, KB Design, Process Mapping | Operational excellence |
-| Risk & Fraud | Pattern Mining, Python | Anomaly detection |
-| Automation | Python, Google Apps Script, SQL | Workflow optimization |
+| **Data Analysis & Processing**| Python (Pandas, Polars, Matplotlib) | ETL, exploratory data analysis, statistical visualization |
+| **Machine Learning & Forensics**| Python (XGBoost, Scikit-learn) | Forensic analytics, predictive modeling, anomaly clustering |
+| **Web Scraping & Extraction** | Python (Selenium, BS4), JavaScript | DOM inspection, extracting innerText/labels, handling dynamic UIs & floating panels |
+| **BI & Interactive Data** | Power BI, Tableau, Streamlit | Analytical interfaces, custom dashboards, data storytelling |
+| **Desktop & Cloud Automation**| VBA Excel, Google Apps Script | Macros, custom operational calculators, workflow automation |
+| **Quality & Operations** | BPM, SQL, Process Mapping | KPI development, quality control mapping, continuous improvement |
 
 ---
 
 ## 🔬 Current Focus
 
-- 📈 Data visualization and decision narratives  
-- ⚙️ Automation with Python & SQL pipelines  
-- 🤖 Agentic AI systems for structured reasoning  
-
+- 🛠️ **Data Tooling:** Development of custom data tools and analytical interfaces
+- ⚙️ **Automation & Extraction:** Building workflow automations and web scraping pipelines
+- 🛡️ **Defensive Security:** Creating Blue Team tools for monitoring, analysis, and defense
+- 🧠 **Forensic AI:** Designing neural networks and machine learning models for forensic analysis
 ---
 
 ## 🔗 Connect
@@ -56,10 +61,6 @@ Multidisciplinary professional connecting **Architecture, Data Engineering and A
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/thiagosilvaventura/thiagosilvaventura/output/github-contribution-grid-snake.svg" />
 
 </div>
