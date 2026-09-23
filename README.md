@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/c680fa33-2b9e-4e4a-b142-497c0841bca9" width="60" height="60" style="border-radius: 50%; border: 3px solid #3498db; box-shadow: 0 2px 5px rgba(0,0,0,0.2); object-fit: cover; max-width: 60px; max-height: 60px;" alt="Thiago Ventura">
+<img src="https://github.com/user-attachments/assets/c680fa33-2b9e-4e4a-b142-497c0841bca9" width="100" height="100" style="border-radius: 50%; border: 3px solid #3498db; box-shadow: 0 2px 5px rgba(0,0,0,0.2); object-fit: cover; max-width: 100px; max-height: 100px;" alt="Thiago Ventura">
 
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=3498db&center=true&vCenter=true&width=450&lines=Thiago+Ventura" alt="Thiago Ventura" />
