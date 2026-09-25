@@ -1,58 +1,79 @@
-<div align="center">
+# Hi, I'm Thiago Ventura 👋
 
-<img src="https://github.com/user-attachments/assets/c680fa33-2b9e-4e4a-b142-497c0841bca9" width="100" height="100" style="border-radius: 50%; border: 3px solid #3498db; box-shadow: 0 2px 5px rgba(0,0,0,0.2); object-fit: cover; max-width: 100px; max-height: 100px;" alt="Thiago Ventura">
+> *"Turn raw tables into relationships, relationships into signals, and signals into decisions."*  
+> *"Because sometimes the most interesting story in a dataset is the column nobody bothered to compare."*
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=3498db&center=true&vCenter=true&width=450&lines=Thiago+Ventura" alt="Thiago Ventura" />
-</h1>
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=".py">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt=".sql">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt=".js">
-  <img src="https://img.shields.io/badge/DAX_%7C_M-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt=".dax .m">
-  <img src="https://img.shields.io/badge/Web_Scraping-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Scraping">
-  <img src="https://img.shields.io/badge/Web_Automation-009688?style=for-the-badge&logo=selenium&logoColor=white" alt="Automation">
-  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt=".vba">
-  <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt=".gs">
+### **AI & Data Engineer | Systems Developer & Analytics Specialist**
+*Building intelligent data pipelines, forensic ML models, and automated operational tools.*
+
+<!-- BADGES TECH STACK -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-EB5424?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX%20%7C%20M-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Scraping-FF6F00?style=for-the-badge&logo=pypy&logoColor=white" />
+  <img src="https://img.shields.io/badge/VBA%20%26%20Apps_Script-339933?style=for-the-badge&logo=google-sheets&logoColor=white" />
 </p>
 
-</div>
+---
+
+## 🛠️ Profile & Engineering Overview
+
+Graduated in **Data Science** and **Systems Analysis & Development (ADS)**, with a **Post-Graduate Specialization in AI Engineering**.
+
+I combine a solid software development foundation with machine learning models and operational business intelligence:
+- 🧠 **AI & Fraud Engineering**: Development of ML models (XGBoost, Scikit-Learn) for anomaly detection, forensic analytics, and risk control.
+- 🕷️ **Web Extraction & Automation**: Resilient web scraping pipelines, custom DOM injections, and UI panel automation using JavaScript and Python.
+- 📊 **BI & Data Visualization**: Interactive dashboards in Streamlit, Power BI (DAX, Power Query/M), Tableau, Looker Studio, and automated spreadsheet infrastructure (Excel/VBA, Google Sheets, Apps Script).
+- ⚙️ **Operations & Quality Assurance**: Operational auditing, KPI mapping, BPO implementation, and process optimization backed by domain experience in High-Risk/iGaming Operations and Big Tech support environments.
 
 ---
 
-## 🧠 Architecting Data Intelligence
+## ⚡ Technical Matrix
 
-**Data Analytics Specialist** bridging Quality Control, Forensic Analysis, and Web Automation. Evolving from an architectural background, I now focus on transforming raw complexity into structured intelligence through data extraction (scraping), AI models, and automated analytical workflows to drive operational excellence.
-
----
-
-## 🛠️ Tech Stack
-
-| Category | Technologies | Focus |
-|----------|-------------|-------|
-| **Data Analysis & Processing**| Python (Pandas, Polars, Matplotlib) | ETL, exploratory data analysis, statistical visualization |
-| **Machine Learning & Forensics**| Python (XGBoost, Scikit-learn) | Forensic analytics, predictive modeling, anomaly clustering |
-| **Web Scraping & Extraction** | Python (Selenium, BS4), JavaScript | DOM inspection, extracting innerText/labels, handling dynamic UIs & floating panels |
-| **BI & Interactive Data** | Power BI, Tableau, Streamlit | Analytical interfaces, custom dashboards, data storytelling |
-| **Desktop & Cloud Automation**| VBA Excel, Google Apps Script | Macros, custom operational calculators, workflow automation |
-| **Quality & Operations** | BPM, SQL, Process Mapping | KPI development, quality control mapping, continuous improvement |
+| Area | Stack & Expertise |
+| :--- | :--- |
+| **Data & AI** | Python (Pandas, Polars, Scikit-Learn, XGBoost), Fraud Detection AI, Forensic Analytics, ETL, Data Quality & Normalization |
+| **Web & Automation** | JavaScript (ES6+), Web Scraping (Selenium, BS4), Web Automation, Native DOM Manipulation, Custom Web Interfaces |
+| **BI & Analytics** | Power BI, DAX, Power Query (M), Tableau, Looker Studio, Streamlit, Advanced Excel, Google Sheets, VBA, Google Apps Script |
+| **Operations & Risk** | Risk Control (iGaming), Fraud Prevention, Quality Assurance, Audit, Process Analysis, KPI Architecture, Knowledge Management |
 
 ---
 
-## 🔬 Current Focus
+## 📌 Featured Repositories
 
-- 🛠️ **Data Tooling:** Development of custom data tools and analytical interfaces
-- ⚙️ **Automation & Extraction:** Building workflow automations and web scraping pipelines
-- 🛡️ **Defensive Security:** Creating Blue Team tools for monitoring, analysis, and defense
-- 🧠 **Forensic AI:** Designing neural networks and machine learning models for forensic analysis
+### 🚀 [PartiX — Big Data Partitioning Application](https://github.com/thiagosilvaventura/PartiX)
+> **Python • Pandas • BeeWare Toga**
+>
+> Native cross-platform desktop application designed for smart, in-memory partitioning of large datasets without writing temporary files to disk.
+
+### 🛡️ [Spoofing & Anti-Detect Forensics](https://github.com/thiagosilvaventura/Spoofing)
+> **JavaScript (ES6+) • Browser Fingerprinting • DOM Injections**
+>
+> Client-side research tools for simulating browser fingerprint manipulation (Canvas noise, WebGL spoofing) and forensic attribute extraction.
+
+### 📊 [Mouse-Behavior Analytics & Telemetry](https://github.com/thiagosilvaventura/Mouse-Behavior)
+> **JavaScript • HTML5 Canvas Engine • Spatial Telemetry**
+>
+> Real-time mouse movement and click tracking tool, generating CSV/Visual maps for biometric ML classification models.
 
 ---
 
-## 🔗 Connect
+## 🎓 Academic Credentials
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/thiagosilvaventura">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+- 🎓 **Post-Graduate Degree in AI Engineering**
+- 🎓 **B.S. in Data Science**
+- 🎓 **Associate Degree in Systems Analysis & Development (ADS)**
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sventurathiago)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiagosilvaventura)
