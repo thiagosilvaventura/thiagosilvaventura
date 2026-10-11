@@ -41,6 +41,14 @@
   <img src="https://img.shields.io/badge/G--sheets-FF6666?style=for-the-badge&logo=googlesheets&logoColor=white" />
   <img src="https://img.shields.io/badge/VBA-FF6666?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Calc-FF6666?style=for-the-badge&logoColor=white" />
+  <!-- Data Analysis (Green) -->
+  <img src="https://img.shields.io/badge/Data_Analysis-00AA00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-66CC66?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JS_Dashboards-66CC66?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-66CC66?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel_Dashboards-66CC66?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker_Studio-66CC66?style=for-the-badge&logo=looker&logoColor=white" />
+  <br><br>
 </p>
 
 ---
