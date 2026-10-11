@@ -8,22 +8,27 @@
 
 
 <!-- BADGES TECH STACK -->
-<p align="left">
+<p align="center">
   <!-- Python Ecosystem (Orange) -->
   <img src="https://img.shields.io/badge/Python-FF6600?style=for-the-badge&logo=python&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/XGBoost-FFA366?style=for-the-badge&logo=xgboost&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FFA366?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplot-FFA366?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-FFA366?style=for-the-badge&logo=pandas&logoColor=white" />
   <br><br>
+
   <!-- AI Engineering (Blue) -->
   <img src="https://img.shields.io/badge/AI_Engineering-0000AA?style=for-the-badge&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/AI_Python_Models-6666FF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Random_Forest-6666FF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/KNN-6666FF?style=for-the-badge&logoColor=white" />
   <br><br>
+
   <!-- Web & Automation (Yellow) -->
   <img src="https://img.shields.io/badge/Web_Scraping-FFCC00?style=for-the-badge&logoColor=black" />
+  <br>
   <img src="https://img.shields.io/badge/DOM_Scrap-FFE680?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-FFE680?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Web_Application-FFE680?style=for-the-badge&logoColor=black" />
@@ -32,8 +37,20 @@
   <img src="https://img.shields.io/badge/Executable_Files-FFE680?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/AppScript-FFE680?style=for-the-badge&logoColor=black" />
   <br><br>
+
+  <!-- Data Analysis (Green) -->
+  <img src="https://img.shields.io/badge/Data_Analysis-00AA00?style=for-the-badge&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Power_BI-66CC66?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JS_Dashboards-66CC66?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-66CC66?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel_Dashboards-66CC66?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker_Studio-66CC66?style=for-the-badge&logo=looker&logoColor=white" />
+  <br><br>
+
   <!-- Data Base (Red) -->
   <img src="https://img.shields.io/badge/Data_Base-CC0000?style=for-the-badge&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/SQL-FF6666?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/NoSQL-FF6666?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-FF6666?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -41,15 +58,6 @@
   <img src="https://img.shields.io/badge/G--sheets-FF6666?style=for-the-badge&logo=googlesheets&logoColor=white" />
   <img src="https://img.shields.io/badge/VBA-FF6666?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Calc-FF6666?style=for-the-badge&logoColor=white" />
-  <br><br>
-  <!-- Data Analysis (Green) -->
-  <img src="https://img.shields.io/badge/Data_Analysis-00AA00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-66CC66?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JS_Dashboards-66CC66?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-66CC66?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel_Dashboards-66CC66?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker_Studio-66CC66?style=for-the-badge&logo=looker&logoColor=white" />
-  <br><br>
 </p>
 
 ---
