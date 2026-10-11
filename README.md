@@ -1,24 +1,46 @@
 # Hi, I'm Thiago Ventura 👋
 
-> *"Turn raw tables into relationships, relationships into signals, and signals into decisions."*  
-> *"Because sometimes the most interesting story in a dataset is the column nobody bothered to compare."*
+> > The most interesting story in a dataset is the column nobody bothered to compare
 
 ---
 
 ### **AI & Data Engineer | Systems Developer & Analytics Specialist**
-*Building intelligent data pipelines, forensic ML models, and automated operational tools.*
+
 
 <!-- BADGES TECH STACK -->
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-EB5424?style=for-the-badge&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/DAX%20%7C%20M-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Scraping-FF6F00?style=for-the-badge&logo=pypy&logoColor=white" />
-  <img src="https://img.shields.io/badge/VBA%20%26%20Apps_Script-339933?style=for-the-badge&logo=google-sheets&logoColor=white" />
+  <!-- Python Ecosystem (Orange) -->
+  <img src="https://img.shields.io/badge/Python-FF6600?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FFA366?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FFA366?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplot-FFA366?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-FFA366?style=for-the-badge&logo=pandas&logoColor=white" />
+  <br><br>
+  <!-- AI Engineering (Blue) -->
+  <img src="https://img.shields.io/badge/AI_Engineering-0000AA?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Python_Models-6666FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Random_Forest-6666FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/KNN-6666FF?style=for-the-badge&logoColor=white" />
+  <br><br>
+  <!-- Web & Automation (Yellow) -->
+  <img src="https://img.shields.io/badge/Web_Scraping-FFCC00?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/DOM_Scrap-FFE680?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-FFE680?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Web_Application-FFE680?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Web_Automation-FFE680?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/RPA-FFE680?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Executable_Files-FFE680?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/AppScript-FFE680?style=for-the-badge&logoColor=black" />
+  <br><br>
+  <!-- Data Base (Red) -->
+  <img src="https://img.shields.io/badge/Data_Base-CC0000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-FF6666?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoSQL-FF6666?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-FF6666?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-FF6666?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/G--sheets-FF6666?style=for-the-badge&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/VBA-FF6666?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Calc-FF6666?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
