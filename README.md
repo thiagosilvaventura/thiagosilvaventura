@@ -4,7 +4,7 @@
 
 ---
 
-### **AI & Data Engineer | Systems Developer & Analytics Specialist**
+### **AI & Data Engineer | Systems Developer & Analytics**
 
 
 <!-- BADGES TECH STACK -->
