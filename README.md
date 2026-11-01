@@ -1,10 +1,10 @@
 # Hi, I'm Thiago Ventura 👋
 
-> > The most interesting story in a dataset is the column nobody bothered to compare
+ The most interesting story in a dataset is the column nobody bothered to compare
 
 ---
 
-### **AI & Data Engineer | Systems Developer & Analytics**
+### **Python • SQL • JavaScript • Web Automation**
 
 
 <!-- BADGES TECH STACK -->
