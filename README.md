@@ -1,13 +1,13 @@
 
 <!-- =========================================================
      THIAGO VENTURA — GITHUB PROFILE README
-     Visual identity: Dark / Orange / Blue / Green
+     Visual identity: Dark / Royal Blue / Red
 ========================================================== -->
 
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:172554,100:ea580c&height=190&section=header&text=Thiago%20Ventura&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20Engineering%20%7C%20Automation&descAlignY=58&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,50:1d4ed8,100:1e3a8a&height=190&section=header&text=Thiago%20Ventura&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20Engineering%20%7C%20Automation&descAlignY=58&descSize=16"
     width="100%"
     alt="Thiago Ventura — Profile Header"
   />
@@ -15,7 +15,7 @@
   <br/>
 
   <a href="https://github.com/thiagosilvaventura">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Python+%E2%80%A2+SQL+%E2%80%A2+JavaScript;Machine+Learning+%26+Data+Analysis;Web+Automation+%26+Data+Extraction;Turning+Data+Into+Useful+Insights" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Python+%E2%80%A2+SQL+%E2%80%A2+JavaScript;Machine+Learning+%26+Data+Analysis;Web+Automation+%26+Data+Extraction;Turning+Data+Into+Useful+Insights" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -32,7 +32,7 @@
   <a href="https://github.com/thiagosilvaventura">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=thiagosilvaventura&style=for-the-badge&color=ea580c&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=thiagosilvaventura&style=for-the-badge&color=1d4ed8&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -76,13 +76,17 @@ I combine a solid software development foundation with machine learning models a
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>🐍 Python & Machine Learning</h3>
+        <h3>🐍 Python & Data Science</h3>
         <img src="https://img.shields.io/badge/Python-FF6600?style=for-the-badge&logo=python&logoColor=white" />
         <br/><br/>
-        <img src="https://img.shields.io/badge/XGBoost-FFA366?style=flat-square&logo=xgboost&logoColor=white" />
         <img src="https://img.shields.io/badge/Streamlit-FFA366?style=flat-square&logo=streamlit&logoColor=white" />
-        <img src="https://img.shields.io/badge/Matplot-FFA366?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Polars-FFA366?style=flat-square&logo=polars&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-FFA366?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <br/>
         <img src="https://img.shields.io/badge/Pandas-FFA366?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-FFA366?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-FFA366?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/XGBoost-FFA366?style=flat-square&logoColor=white" />
       </td>
       <td align="center" width="50%">
         <h3>🤖 AI Engineering</h3>
@@ -141,90 +145,12 @@ I combine a solid software development foundation with machine learning models a
 
   | Area | Stack & Expertise |
   |:---|:---|
-  | **Data & AI** | Python (Pandas, Polars, Scikit-Learn, XGBoost), Fraud Detection AI, Forensic Analytics, ETL, Data Quality & Normalization |
-  | **Web & Automation** | JavaScript (ES6+), Web Scraping (Selenium, BS4), Web Automation, Native DOM Manipulation, Custom Web Interfaces |
+  | **Data & AI** | Python (Streamlit, Polars, Scikit-Learn, Pandas, NumPy, Matplotlib, XGBoost), Fraud Detection AI, Forensic Analytics, ETL, Data Quality & Normalization |
+  | **Web & Automation** | JavaScript (ES6+), Web Scraping (Selenium), Web Automation, Native DOM Manipulation, Custom Web Interfaces |
   | **BI & Analytics** | Power BI, DAX, Power Query (M), Tableau, Looker Studio, Streamlit, Advanced Excel, Google Sheets, VBA, Google Apps Script |
   | **Operations & Risk** | Risk Control (iGaming), Fraud Prevention, Quality Assurance, Audit, Process Analysis, KPI Architecture, Knowledge Management |
 
 </details>
-
----
-
-## 🚀 Featured Repositories
-
-<div align="center">
-
-  <a href="https://github.com/thiagosilvaventura/PartiX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagosilvaventura&repo=PartiX&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=fb923c&icon_color=60a5fa" />
-  </a>
-  <a href="https://github.com/thiagosilvaventura/Spoofing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagosilvaventura&repo=Spoofing&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=fb923c&icon_color=60a5fa" />
-  </a>
-  <a href="https://github.com/thiagosilvaventura/Mouse-Behavior">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagosilvaventura&repo=Mouse-Behavior&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=fb923c&icon_color=60a5fa" />
-  </a>
-
-</div>
-
-### 🚀 PartiX — Big Data Partitioning Application
-
-<sub>**Python • Pandas • BeeWare Toga**</sub>
-
-> Native cross-platform desktop application designed for smart, in-memory partitioning of large datasets without writing temporary files to disk.
-
-[![Open Repository](https://img.shields.io/badge/Explore_PartI-X-181717?style=flat-square&logo=github)](https://github.com/thiagosilvaventura/PartiX)
-
-### 🛡️ Spoofing & Anti-Detect Forensics
-
-<sub>**JavaScript (ES6+) • Browser Fingerprinting • DOM Injections**</sub>
-
-> Client-side research tools for simulating browser fingerprint manipulation (Canvas noise, WebGL spoofing) and forensic attribute extraction.
-
-[![Open Repository](https://img.shields.io/badge/Explore_Spoofing-181717?style=flat-square&logo=github)](https://github.com/thiagosilvaventura/Spoofing)
-
-### 📊 Mouse-Behavior Analytics & Telemetry
-
-<sub>**JavaScript • HTML5 Canvas Engine • Spatial Telemetry**</sub>
-
-> Real-time mouse movement and click tracking tool, generating CSV/Visual maps for biometric ML classification models.
-
-[![Open Repository](https://img.shields.io/badge/Explore_Mouse--Behavior-181717?style=flat-square&logo=github)](https://github.com/thiagosilvaventura/Mouse-Behavior)
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=thiagosilvaventura&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=fb923c&icon_color=60a5fa&text_color=c9d1d9&rank_icon=github"
-    alt="GitHub Statistics"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosilvaventura&layout=compact&hide_border=true&bg_color=0d1117&title_color=fb923c&text_color=c9d1d9"
-    alt="Most Used Languages"
-  />
-
-  <br/>
-
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=thiagosilvaventura&theme=tokyonight&hide_border=true&background=0D1117&ring=FB923C&fire=FB923C&currStreakLabel=60A5FA"
-    alt="GitHub Contribution Streak"
-  />
-
-  <br/><br/>
-
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=thiagosilvaventura&bg_color=0d1117&color=c9d1d9&line=fb923c&point=60a5fa&area=true&area_color=172554&hide_border=true"
-    alt="GitHub Contribution Activity Graph"
-  />
-
-</div>
 
 ---
 
@@ -278,7 +204,7 @@ I combine a solid software development foundation with machine learning models a
   <br/><br/>
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:ea580c,50:172554,100:111827&height=100&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:1d4ed8,100:7f1d1d&height=100&section=footer"
     width="100%"
     alt="Footer"
   />
